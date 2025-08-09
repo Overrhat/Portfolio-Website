@@ -1,0 +1,1 @@
+export default function Skills(){return(<section className="p-6"><h1 className="text-3xl font-bold">Skills</h1></section>)}

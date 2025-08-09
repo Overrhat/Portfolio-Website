@@ -1,0 +1,7 @@
+/* Tailwind will expand these at build time */
+.nav-link {
+  @apply px-3 py-2 rounded-md text-sm font-medium hover:bg-gray-100 dark:hover:bg-gray-900;
+}
+.nav-link-active {
+  @apply bg-gray-200 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-800;
+}
